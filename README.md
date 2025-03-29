@@ -1,11 +1,14 @@
 # Diet Visualisation
 
-### View the Visualisation results
+This project generate static and interactive visualisations about environmeneal impact from diet and food consumption based on research by Scarborough et al. in 2023 https://www.nature.com/articles/s43016-023-00795-w
 
-#### Option 1: Google Colab
+## Dataset
 
-Open the Colab project by click on this link: https://colab.research.google.com/github/ne-supanat/diet_visualisation/blob/main/research_cw2.ipynb and follow the Colab Instructions.
+https://ora.ox.ac.uk/objects/uuid:ca441840-db5a-48c8-9b82-1ec1d77c2e9c
 
-#### Option 2: Local file
+## Note
 
-Download file **research_cw2.ipynb** it should already contains visualisation results.
+both `research_cw2.ipynb` and `research_cw2_generated.ipynb` have the same code.
+
+`research_cw2.ipynb` contains only code.
+`research_cw2_generated.ipynb` include generated results.
